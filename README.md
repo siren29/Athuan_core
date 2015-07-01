@@ -1,2 +1,2 @@
 # Athuan_core
-Athuan_core for L2J_Server based
+Athuan_core based on L2J_Server 
